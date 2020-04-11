@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "files.associations": {
+    "*.yamlt": "yaml"
+  }
+}
