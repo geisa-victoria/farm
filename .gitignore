@@ -1,0 +1,19 @@
+node_modules
+coverage
+
+# Certificates
+/certificates
+*.pem
+*.key
+*.crt
+.env
+
+# Cruft
+.DS_Store
+
+# VS code configs
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
